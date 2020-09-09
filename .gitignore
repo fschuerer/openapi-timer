@@ -1,0 +1,32 @@
+
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+ 
+# Maven
+log/
+target/
+
+ # Mac
+.DS_Store
+
+
+
+
+env/*.properties
+!env/template.properties
